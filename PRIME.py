@@ -3,9 +3,9 @@ b = 2
 
 while a  != 1:
     remainder =a%b
-if remainder == 0:
-    a = a/b 
-    print (y)
+    if remainder == 0:
+        a = a/b 
+        print (b)
 
-else:
-    b +=1
+    else:
+        b +=1
